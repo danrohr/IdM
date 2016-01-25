@@ -3,6 +3,7 @@ Red Hat Identity Management
 
 Repository contains information on how to plan and implement Red Hat Identity Management.
 It includes:
+
 -Instructions for building the master server
 
 -Instructions for building replica servers
