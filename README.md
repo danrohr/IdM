@@ -13,4 +13,4 @@ It includes:
 
 -Instructions for integration with Active Directory and using its identity store
 
--Scritp for automatically joining the a new system to IdM, useful for templates in a virtual infrastructure or kickstart snippets
+-Script for automatically joining the a new system to IdM, useful for templates in a virtual infrastructure or kickstart snippets
